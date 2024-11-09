@@ -2,6 +2,11 @@
 <h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghogaresachin&label=Profile%20views&color=0e75b6&style=flat" alt="ghogaresachin" /> </p>
 
+<p align="left">
+  ✨ "Data is the new oil, and I am here to refine it!" – A Data Science Enthusiast 🚀
+</p>
+
+
 <br clear="both">
 
 <div align="right">
