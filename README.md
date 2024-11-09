@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sachin Ghogare</h1>
 <h3 align="center">A passionate Data Analyst & Data Scientist from India</h3>
-
-<img align="right" alt="data science" width="400" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghogaresachin&label=Profile%20views&color=0e75b6&style=flat" alt="ghogaresachin" /> </p>
+
+<br clear="both">
+
+<div align="right">
+  <img height="200" src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif"  />
+</div>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghogaresachin" alt="ghogaresachin" /></a> </p>
 
