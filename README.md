@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Sachin Ghogare</span></h1>
+<h1 align="center" style="color:#0A66C2;">👋 Hi, I'm Sachin Ghogare</h1>
 <h3 align="center">A Passionate Data Analyst & Statistical Analyst from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghogaresachin&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ghogaresachin&label=Profile%20Views&color=0A66C2&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif" />
+  <img height="200" src="https://media.tenor.com/iRB7vrvhPR4AAAAj/data-code.gif" alt="Data GIF" />
 </div>
 
 ---
@@ -24,7 +24,7 @@ I specialize in transforming complex datasets into meaningful business insights 
 
 - 🌱 Currently exploring **Advanced Excel** & **Power BI**  
 - 💬 Ask me about **Statistics**, **Machine Learning**, and **Deep Learning**  
-- 📫 Reach me at **sachinghogare1762@gmail.com**
+- 📫 Reach me at <a href="mailto:sachinghogare1762@gmail.com">sachinghogare1762@gmail.com</a>
 
 ---
 
@@ -52,7 +52,7 @@ I specialize in transforming complex datasets into meaningful business insights 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
@@ -93,15 +93,15 @@ I specialize in transforming complex datasets into meaningful business insights 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghogaresachin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghogaresachin&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghogaresachin&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghogaresachin&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ghogaresachin&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ghogaresachin&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -111,5 +111,5 @@ I specialize in transforming complex datasets into meaningful business insights 
 </p>
 
 <p align="center">
-  📬 Reach out: <a href="mailto:sachinghogare1762@gmail.com">sachinghogare1762@gmail.com</a>
+  📬 Connect: <a href="mailto:sachinghogare1762@gmail.com">sachinghogare1762@gmail.com</a>
 </p>
