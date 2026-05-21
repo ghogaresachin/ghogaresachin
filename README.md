@@ -43,7 +43,7 @@ I specialize in transforming complex datasets into meaningful business insights 
 ## 🏆 Achievements
 
 - 🥈 **2nd Rank** in *Madhava Mathematics Competition* (S.Y.B.Sc)  
-- 🌟 **5★ in SQL** and **3★ in Python** on *HackerRank*  
+- 🌟 **5★ in SQL** and **4★ in Python** on *HackerRank*  
 - 🎤 Conducted a seminar on **Sentiment Analysis**  
 - 📚 Completed multiple projects in *Statistics*, *Machine Learning*, and *Data Analytics*
 
